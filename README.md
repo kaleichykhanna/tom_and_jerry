@@ -12,7 +12,7 @@ The dataset was kindly provided by a Kaggle user: [Insert Kaggle Dataset Link He
 
 * `eda.ipynb`: Contains the Exploratory Data Analysis (EDA) of the dataset.
 * `model_layers.py`: Contains the definition and initialization of the PyTorch neural network model (`LightweightGoogLeNet`).
-* `helper_function.py`: Contains the training and testing/evaluation loops for the model.
+* `helper_functions.py`: Contains the training and testing/evaluation loops for the model.
 * `main.ipynb`: Demonstrates model initialization, training, testing, and performance evaluation.
 
 ---
